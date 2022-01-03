@@ -1,7 +1,5 @@
-
- 
- ​# -*- coding: utf-8 
- ​# author by kVNG DAVID
+ ​#00008B -*- coding: utf-8 
+#342D7E author by kVNG DAVID
  ​import​ ​os 
  ​try​: 
  ​        ​import​ ​requests 
