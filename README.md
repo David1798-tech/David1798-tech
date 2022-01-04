@@ -18,7 +18,7 @@ $ pip2 install mechanize
 
 $ apt install git
 
-$ git clone https://github.com/DAVID1798-tech/CRACKBOT 
+$ git clone https://github.com/David1798-tech/CRACKBOT 
 
 $ cd CRACKBOT
 
